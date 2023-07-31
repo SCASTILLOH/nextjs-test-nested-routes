@@ -1,0 +1,40 @@
+{
+  "movies" : [
+    {
+       "id": 1,
+        "title": "Inception",
+        "year": 2010,
+        "director": "Christopher Nolan",
+        "description": "Dom Cobb es un ladrón hábil, el mejor en el peligroso arte de la extracción: el robo de valiosos secretos desde las profundidades del subconsciente durante el sueño, cuando la mente está más vulnerable. La rara habilidad de Cobb le ha hecho un codiciado jugador en el traicionero nuevo mundo de espionaje corporativo, pero también le ha convertido en un fugitivo internacional y ha tenido que sacrificar todo lo que alguna vez ha querido."
+    },
+    {
+      "id": 2,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "director": "Frank Darabont",
+        "description": "Andy Dufresne es condenado a cadena perpetua por el asesinato de su esposa y su amante, crimen que él niega haber cometido. Es enviado a la prisión de Shawshank, donde conoce a Red, un hombre que sabe cómo conseguir cosas en prisión. A través de los años, Andy encuentra una forma única de vivir en prisión y se convierte en una figura icónica en la comunidad carcelaria."
+    },
+    {
+      "id": 3,
+        "title": "The Godfather",
+        "year": 1972,
+        "director": "Francis Ford Coppola",
+        "description": "La película narra la historia de la familia mafiosa Corleone y su ascenso al poder en el mundo del crimen organizado. Don Vito Corleone, el patriarca de la familia, debe lidiar con conflictos entre bandas rivales, intentos de asesinato y traiciones dentro de su propio círculo más cercano."
+    },
+    {
+      "id": 4,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "director": "Robert Zemeckis",
+        "description": "Forrest Gump es un hombre con un coeficiente intelectual por debajo del promedio, pero con un corazón enorme. A lo largo de su vida, se ve involucrado en varios eventos históricos importantes en Estados Unidos y forma conexiones significativas con las personas que conoce, incluyendo a su amor de toda la vida, Jenny."
+    },
+    {
+      "id": 5,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "director": "Christopher Nolan",
+        "description": "Batman, junto con el comisionado Gordon y el nuevo fiscal del distrito Harvey Dent, trabajan juntos para llevar a cabo una ofensiva contra el crimen organizado en Gotham City. Sin embargo, se ven amenazados por un criminal brillante y despiadado conocido como El Joker, quien busca sembrar el caos y la anarquía en la ciudad."
+    }
+]
+
+}
