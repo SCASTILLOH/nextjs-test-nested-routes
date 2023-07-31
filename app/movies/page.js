@@ -4,9 +4,9 @@ function Page() {
   return (
     <div>
       <p>
-        Select a movie.
+        Select a movie!
       </p>
-      <small>This is children of layout movies</small>
+      <small>This is children of layout movies (default page.js)</small>
 
     </div>
   )
