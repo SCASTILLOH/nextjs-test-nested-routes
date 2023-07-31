@@ -17,7 +17,13 @@ const MoviesLayout = ({ children }) => {
     queryFn: getMovies
   })
 
-  if (isLoading) return <p>Loading...</p>
+  if (isLoading) {
+    return <div>Loading...</div>;
+  }
+
+  if (error) {
+    return <div>Error: {error.message}</div>;
+  }
 
   return (
     <div className='flex gap-4 px-3 py-8'>
