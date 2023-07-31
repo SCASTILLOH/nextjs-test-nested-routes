@@ -2,7 +2,13 @@ import React from 'react'
 
 function Page() {
   return (
-    <div>Select a movie</div>
+    <div>
+      <p>
+        Select a movie.
+      </p>
+      <small>This is children of layout movies</small>
+
+    </div>
   )
 }
 
